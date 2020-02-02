@@ -1,1 +1,1 @@
-Personal site using HTML, CSS & Bootstrap.
+Personal site.

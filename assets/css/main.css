@@ -23,7 +23,9 @@ section, summary, time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-	vertical-align: baseline;}
+	vertical-align: baseline;
+}
+
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -606,6 +608,11 @@ input, select, textarea {
 		}
 
 /* Icon */
+
+	.dev-icons {
+		text-align: center;
+		font-size: 1.4em;
+	}
 
 	.icon {
 		text-decoration: none;

@@ -685,8 +685,9 @@ input, select, textarea {
 		}
 
 		.text {
-			background-color: #A1A1A2;
-			color: white;
+			background-color: #fff;
+			border-radius: 5px;
+			color: black;
 			font-size: 16px;
 			padding: 16px 32px;
 		}
